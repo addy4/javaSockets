@@ -1,6 +1,5 @@
 import java.io.*; import java.net.*;
 /** *
-* @author vasu
 */
 public class UDPServerEcho {
 /**

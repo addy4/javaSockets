@@ -1,6 +1,5 @@
 import java.net.*; import java.io.*; import java.util.*; /**
 *
-* @author vasu */
 public class WebServer {
 /**
 * @param args the command line arguments */

@@ -4,7 +4,6 @@ import java.util.*;
 import java.text.* ; 
 /**
 *
-* @author vasu
 */
 public class MultiDateServer implements Runnable {
 /**
